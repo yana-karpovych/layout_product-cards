@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;AAIA","sources":["src/styles/index.scss"],"sourcesContent":["html {\n  font-family: Roboto, sans-serif;\n}\n\nbody {\n  margin: 0;\n}\n"],"names":[],"version":3,"file":"index.e378193d.css.map","sourceRoot":"/__parcel_source_root/"}

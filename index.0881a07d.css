@@ -1,0 +1,21 @@
+.stars {
+  display: flex;
+}
+
+.stars__star {
+  background-image: url("star.fa806e3c.svg");
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 16px;
+  height: 16px;
+  margin-right: 4px;
+}
+
+.stars__star:last-child {
+  margin: 0;
+}
+
+.stars--4 .stars__star:nth-child(-n+4) {
+  background-image: url("star-active.2be54011.svg");
+}
+/*# sourceMappingURL=index.0881a07d.css.map */
